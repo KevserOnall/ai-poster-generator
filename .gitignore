@@ -1,0 +1,5 @@
+model_cache/ 
+venv310/ 
+__pycache__/ 
+*.pyc 
+.env 
